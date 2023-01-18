@@ -1,8 +1,6 @@
 import { useState } from "react";
-import reactLogo from "./assets/react.svg";
 import "./style/global.css";
 import ImagePng from "./assets/sofa.png";
-import ImageGif from "./assets/sofa-gif.gif";
 import Svg from "./assets/Vector.svg";
 import Exit from "./assets/Exit.svg";
 
